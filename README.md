@@ -1,6 +1,3 @@
-symbolic-music-database
-=======================
-
 Symbolic music database manager.
 
 Originally for singing voice synthesis project.
